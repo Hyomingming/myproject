@@ -242,3 +242,5 @@ test(remove_all("an", "banana") == "ba")
 test(remove_all("cyc", "bicycle") == "bile")
 test(remove_all("iss", "Mississippi") == "Mippi")
 test(remove_all("eggs", "bicycle") == "bicycle")
+
+print("hello")
